@@ -11,5 +11,5 @@
 * 08장 React Router
 * 09장 axios를 이용한 통신
 * 10장 Context API
-* 11장 상태 관리
+* 11장 상태 관리_Redux
 * 부록 Mobx
